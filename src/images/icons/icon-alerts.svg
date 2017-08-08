@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="18px" viewBox="0 0 16 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>8548A546-D44D-44FB-9471-601F0C687E9D</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M10.5882353,9.88235294 L10.5882353,6 C10.5882353,3.82941176 9.08117647,2.01882353 7.05882353,1.53882353 L7.05882353,1.05882353 C7.05882353,0.472941176 6.58588235,0 6,0 C5.41411765,0 4.94117647,0.472941176 4.94117647,1.05882353 L4.94117647,1.53882353 C2.91882353,2.01882353 1.41176471,3.82941176 1.41176471,6 L1.41176471,9.88235294 L0,11.2941176 L0,12 L12,12 L12,11.2941176 L10.5882353,9.88235294 L10.5882353,9.88235294 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="16" height="16">
+            <rect x="-2" y="-2" width="16" height="16" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="00_Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-121.000000, -177.000000)">
+            <g id="header-alerts" transform="translate(111.000000, 169.000000)">
+                <rect id="Rectangle-13-Copy" x="0" y="0" width="36" height="36"></rect>
+                <g id="iconNotifications" transform="translate(12.000000, 10.000000)">
+                    <use id="Page-1" stroke="#999999" mask="url(#mask-2)" stroke-width="4" xlink:href="#path-1"></use>
+                    <path d="M6,16 C7.105,16 8,15.1049995 8,14 L4,14 C4,15.1049995 4.895,16 6,16 L6,16 Z" id="Path" fill="#999999"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="19px" height="19px" viewBox="0 0 19 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>675B2F6C-1967-4CB6-B3BE-379D2AB02B68</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <ellipse id="path-1" cx="5" cy="5" rx="5" ry="5"></ellipse>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="14" height="14">
+            <rect x="-2" y="-2" width="14" height="14" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="00_Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-59.000000, -177.000000)">
+            <g id="header-search" transform="translate(51.000000, 169.000000)">
+                <g id="iconSearch" transform="translate(10.000000, 10.000000)">
+                    <use id="Oval-7" stroke="#999999" mask="url(#mask-2)" stroke-width="4" xlink:href="#path-1"></use>
+                    <rect id="Rectangle-55" fill="#888888" transform="translate(12.535534, 12.535534) rotate(-45.000000) translate(-12.535534, -12.535534) " x="11.5355339" y="8.53553391" width="2" height="8"></rect>
+                </g>
+                <rect id="Rectangle-13-Copy-2" x="0" y="0" width="36" height="36"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
